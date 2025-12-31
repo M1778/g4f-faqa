@@ -1,6 +1,6 @@
 [project]
 name = "g4f-faqa"
-version = "1.0.0"
+version = "1.0.1"
 description = "A fun project for a friend"
 readme = "README.md"
 authors = [
