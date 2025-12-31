@@ -56,4 +56,4 @@ jobs:
       with:
         # If you are NOT using Trusted Publishing, uncomment the line below:
         password: ${{ secrets.PYPI_API_TOKEN }}
-        print_hash: true
+        print-hash: true
