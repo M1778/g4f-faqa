@@ -55,5 +55,5 @@ jobs:
       uses: pypa/gh-action-pypi-publish@release/v1
       with:
         # If you are NOT using Trusted Publishing, uncomment the line below:
-        # password: ${{ secrets.PYPI_API_TOKEN }}
+        password: ${{ secrets.PYPI_API_TOKEN }}
         print_hash: true
