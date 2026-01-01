@@ -21,3 +21,5 @@ requires = ["uv_build>=0.9.5,<0.10.0"]
 build-backend = "uv_build"
 [project.scripts]
 g4f-faqa = "g4f_faqa.main:main"
+[tool.setuptools.packages.find]
+where = ["src"]
