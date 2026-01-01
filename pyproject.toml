@@ -1,0 +1,14 @@
+[project]
+name = "g4f-faqa"
+version = "1.0.0"
+description = "A fun project for a friend"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.3",
+    "g4f>=0.3.5.0",
+    "openpyxl>=3.1.5",
+    "tqdm>=4.67.1",
+    "python-dotenv>=1.2.1",
+    "aiohttp>=3.13.2",
+]
